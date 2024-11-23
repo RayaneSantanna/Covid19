@@ -80,6 +80,3 @@ Informações Adicionais:
 •	Disciplina: Linguagem Python | Professor: Raphael Mauricio Sanches de Jesus
 
 •	Pós-Graduação | Data de Entrega: 23/11/2024
-
-Considerações finais:
-Este projeto tem como objetivo proporcionar uma análise interativa e visual dos dados relacionados à pandemia de COVID-19, com ênfase na evolução dos casos e óbitos no Brasil entre julho e novembro de 2024.
