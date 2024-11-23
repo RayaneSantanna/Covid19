@@ -7,6 +7,7 @@ import threading
 import streamlit as st
 import requests
 import time
+import openpyxl
 import matplotlib.dates as mdates  # Importar para formatação das datas:
 
 # Carregamento de Dados:
