@@ -1,6 +1,6 @@
-                           Análise de Dados sobre COVID-19 com Python, utilizando Flask e Streamlit:
+                      Análise de Dados sobre COVID-19 com Python, utilizando Flask e Streamlit:
 
-____________________________________________________________________________________________________________________________________________________________________________________________
+___________________________________________________________________________________________________________________________________________________________________________________________
 
 Descrição do Projeto:
 O principal objetivo desse projeto é realizar análises e gerar visualizações de dados sobre a COVID-19 no Brasil, através de gráficos, abrangendo o período de julho a início de novembro de 2024. Através de um arquivo Excel contendo dados sobre casos e óbitos, o projeto proporciona uma interface interativa onde os usuários podem acessar estatísticas básicas, gerar gráficos e explorar um pouco do impacto dessa pandemia no Brasil.
